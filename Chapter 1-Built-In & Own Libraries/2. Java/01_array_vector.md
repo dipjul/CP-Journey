@@ -1,3 +1,6 @@
+# Array and Vector(Dynamic Array)
+
+```java
 import java.util.*;
 
 class ch2_01_array_vector {
@@ -25,3 +28,4 @@ class ch2_01_array_vector {
     System.out.println("v[5] = " + v.get(5));                          // 5
   }
 }
+```
