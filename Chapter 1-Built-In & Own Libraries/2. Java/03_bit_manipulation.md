@@ -1,6 +1,8 @@
+# Bit Manipulation
+```java
 import java.util.*;
 
-// note: for example usage of BitSet, see ch5_06_primes.java
+// note: for example usage of BitSet, see ch5_06_primes.java[Steven Halim,3ed]
 
 class ch2_03_bit_manipulation {
   private static int setBit(int S, int j) { return S | (1 << j); }
@@ -106,3 +108,4 @@ class ch2_03_bit_manipulation {
     System.out.printf("S = %d, turn on last consecutive zeroes in S, S = %d\n", 36, turnOnLastConsecutiveZeroes(36));
   }
 }
+```
