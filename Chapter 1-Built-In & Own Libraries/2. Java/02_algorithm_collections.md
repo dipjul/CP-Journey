@@ -1,3 +1,11 @@
+# Algorithm Collections
+## Things that are present in c++ file(missing here) are:
+- `partial_sort(v.begin(), v.begin() + 2, v.end());`
+- `next_permutation(arr, arr + 5);`
+- `next_permutation(v.begin(), v.end());`
+- `pair` and `make_pair`
+- All examples are shown with vector only(doesn't work with array)
+```java
 import java.util.*;
 
 // This source code is not as complete as ch2_02_algorithm_collections.cpp
@@ -92,3 +100,4 @@ class ch2_02_algorithm_collections {
     System.out.printf("max(10, 7) = %d\n", Math.max(10, 7));
   }
 }
+```
