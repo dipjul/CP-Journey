@@ -1,3 +1,5 @@
+# Priority Queue
+```java
 import java.util.*;
 
 class pair < X, Y > { // utilizing Java "Generics"
@@ -62,3 +64,4 @@ class ch2_06_priority_queue {
     System.out.println(result.second() + " has " + result.first() + " $");
   }
 }
+```
