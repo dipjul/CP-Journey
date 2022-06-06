@@ -1,3 +1,5 @@
+# Stack & Queue
+```java
 import java.util.*;
 
 class ch2_04_stack_queue {
@@ -55,3 +57,4 @@ class ch2_04_stack_queue {
     System.out.printf("%c - %c\n", d.getFirst(), d.getLast()); // prints 'a - b'
   }
 }
+```
