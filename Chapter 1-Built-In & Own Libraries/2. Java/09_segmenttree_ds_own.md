@@ -1,4 +1,4 @@
-# Segment Tree
+# Segment Tree: Own inplementation
 ```java
 import java.util.*;
 
