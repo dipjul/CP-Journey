@@ -1,3 +1,5 @@
+# Segment Tree
+```java
 import java.util.*;
 
 class SegmentTree {         // the segment tree is stored like a heap array
@@ -96,3 +98,4 @@ class ch2_09_segmenttree_ds {
     System.out.printf("RMQ(4, 5) = %d\n", st.rmq(4, 5));            // 5->4
   }
 }
+```
