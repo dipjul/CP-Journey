@@ -1,3 +1,5 @@
+# Fenwick Tree: Own inplementation
+```java
 import java.util.*;
 
 class FenwickTree {
@@ -46,3 +48,4 @@ class ch2_10_fenwicktree_ds {
     System.out.printf("%d\n", ft.rsq(1, 10)); // now 13
   }
 }
+```
