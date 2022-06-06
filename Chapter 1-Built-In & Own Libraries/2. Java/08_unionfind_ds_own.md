@@ -1,3 +1,5 @@
+# Union Find: Own inplementation 
+```java
 import java.util.*;
 
 // Union-Find Disjoint Sets Library written in OOP manner, using both path compression and union by rank heuristics
@@ -57,3 +59,4 @@ class ch2_08_unionfind_ds {
       System.out.printf("findSet(%d) = %d, sizeOfSet(%d) = %d\n", i, UF.findSet(i), i, UF.sizeOfSet(i));
   }
 }
+```
