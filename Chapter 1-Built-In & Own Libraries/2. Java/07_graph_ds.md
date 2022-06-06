@@ -1,3 +1,8 @@
+# Graph & it's representation
+## Adjacency Matrix
+## Adjacency List
+## Edge List
+```java
 import java.io.*;
 import java.util.*;
 
@@ -115,3 +120,4 @@ class ch2_07_graph_ds {
     }
   }
 }
+```
