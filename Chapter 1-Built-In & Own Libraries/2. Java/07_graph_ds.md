@@ -1,7 +1,7 @@
 # Graph & it's representation
-## Adjacency Matrix
-## Adjacency List
-## Edge List
+- **Adjacency Matrix**
+- **Adjacency List**
+- **Edge List**
 ```java
 import java.io.*;
 import java.util.*;
